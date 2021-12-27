@@ -1,5 +1,5 @@
 <!-- ![profile header jpg1](https://user-images.githubusercontent.com/54985306/132942703-ecf1b0e7-3c70-4c37-924a-d287b9920fcd.jpg) -->
-![profile header with skills v2](https://avatars.githubusercontent.com/u/70802732?s=400&u=bacffa836bdd20b44853788b41b24236a2dbba50&v=4.jpg)
+![profile header with skills v2](https://user-images.githubusercontent.com/70802732/147464522-4598d558-7a43-4a62-8870-93eda0479f09.png)
 <!-- ![Intern](https://user-images.githubusercontent.com/54985306/132943043-5d22a14c-e44b-4a7f-bd86-03404f69a9e2.jpg) -->
 <!-- <h3>Muhammad Ikram Ulhaq</h3> -->
 <!-- Flutter Developer -->
