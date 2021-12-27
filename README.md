@@ -19,7 +19,7 @@ https://wa.me/qr/LDG5MI433M46P1
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
 Sep(2016) - Oct(2020)
-Graduated with CGPA 3.59
+Graduated with CGPA 3.3
 
 <h3>WORK EXPERIENCE</h3>
 <h5>Lead Mobile App Developer (Android & iOS) </h5>
