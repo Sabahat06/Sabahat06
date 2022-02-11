@@ -1,5 +1,5 @@
 <!-- ![profile header jpg1](https://user-images.githubusercontent.com/54985306/132942703-ecf1b0e7-3c70-4c37-924a-d287b9920fcd.jpg) -->
-![profile header with skills v2](https://user-images.githubusercontent.com/54985306/132958701-5a6b93c3-a9b3-4a33-9297-2c5adbadfdea.jpg)
+![profile header with skills v2](https://github.com/Sabahat06/Sabahat06/issues/2#issue-1131975113)
 <!-- ![Intern](https://user-images.githubusercontent.com/54985306/132943043-5d22a14c-e44b-4a7f-bd86-03404f69a9e2.jpg) -->
 <!-- <h3>Muhammad Ikram Ulhaq</h3> -->
 <!-- Flutter Developer -->
