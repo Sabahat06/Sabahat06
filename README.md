@@ -81,8 +81,8 @@ o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
 
 <h6>Links</h6>
-o https://play.google.com/store/apps/details?id=com.softechbusinessservices.waste_management_app<br></br>
-o https://apps.apple.com/us/app/load-a-trash/id1541996261<br></br>
+o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
+o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
 <h5>o Employees Attendance Management System using Face Recognition and QR Scanning</h5>
 <h5>o Video Calling App using Agora SDK</h5>
