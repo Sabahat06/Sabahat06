@@ -44,7 +44,7 @@ E-Commerce App for only Faislabad Peoples where user can order vegetable online.
 App ScreenShots
 <br></br>
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/70802732/155928216-f6b6cfe7-afff-4f7e-b6a3-5d194bdad50b.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 55](https://user-images.githubusercontent.com/54985306/133067336-d437355b-c2da-42cd-b54d-ff1a03a8654d.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 55](https://user-images.githubusercontent.com/70802732/155928847-4dec0e6f-6e47-4f4a-acf5-4050044a1fcf.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 09 25](https://user-images.githubusercontent.com/54985306/133067341-2aefe579-e38f-458e-817f-cf1e45d3d667.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 22](https://user-images.githubusercontent.com/54985306/133067346-b2c3c323-6940-45fe-8713-45c5a606fa16.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 28](https://user-images.githubusercontent.com/54985306/133067347-d355531b-e31c-4d20-ba24-31ef01e2ccbd.png)
