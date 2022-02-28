@@ -54,7 +54,16 @@ App ScreenShots
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
 
-<h5>2. Smart Attendance</h5>
+<h5>2. Rider Sabzi Shop</h5>
+
+![80](https://user-images.githubusercontent.com/70802732/155932777-a7c95f44-8892-42a6-9757-34e1db5770bc.png)
+
+SABZISHOP is the online store for providing an extended range of farm-fresh and organic vegetables in Faisalabad. And this app is for rider to deliver the orders.
+
+<h6>Links</h6>
+o https://play.google.com/store/apps/details?id=com.sbs.riderapp<br></br>
+
+<h5>3. Smart Attendance</h5>
 
 ![80](https://user-images.githubusercontent.com/70802732/155931461-c4d632e6-4291-4d9a-ac65-fa024ee21d35.png)
 
@@ -74,7 +83,7 @@ App ScreenShots
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 
-<h5>o Shirleys</h5>
+<h5>4. Shirleys</h5>
 
 ![80](https://user-images.githubusercontent.com/70802732/155930885-c8f77d10-7f62-4978-bd32-8ee6a3e3c325.png)
 
@@ -84,7 +93,7 @@ SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the 
 o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
 o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
-<h5>o Karobar Easy</h5>
+<h5>5. Karobar Easy</h5>
 
 ![80](https://user-images.githubusercontent.com/70802732/155931705-6afa9260-b3f7-47f6-97b7-e8ae7f4049c1.png)
 
@@ -93,10 +102,8 @@ Karobar Easy is a plate form where shop users can search for mobiles, mobile acc
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 
-<h5>o Employees Attendance Management System using Face Recognition and QR Scanning</h5>
-<h5>o Video Calling App using Agora SDK</h5>
+<h5>6. E-Commerce app (E Store Space)</h5>
 
-<h5>o Adenture Eye(a tourism app for adventure FYP)K</h5>
 
 <h3>Skills</h3>
 <h5>Flutter Mobile App development(Android, iOS)</h5>
