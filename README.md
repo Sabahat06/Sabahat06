@@ -5,7 +5,7 @@
 <!-- Flutter Developer -->
 <h3>Contact</h3>
 <h4>Email</h4>
-miansabahat10@gmail.com, 
+miansabahat10@gmail.com<br></br>
 sabahathussainqureshi@gmail.com
 <h4>Linked In</h4>
 https://www.linkedin.com/in/sabahathussainqureshi/
@@ -100,6 +100,18 @@ o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 ![80](https://user-images.githubusercontent.com/70802732/155930885-c8f77d10-7f62-4978-bd32-8ee6a3e3c325.png)
 
 SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
+
+<br></br>
+App ScreenShots
+<br></br>
+
+![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/155961023-dc116d43-ee06-49b3-a131-7e09e215da5a.png)
+![Screenshot_1629724992](https://user-images.githubusercontent.com/70802732/155961052-1f40ecb7-680c-4fc4-a040-c7c0f9228a31.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155961310-fa5bbc91-84cb-406e-a905-d4f1c15d4afc.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155962096-97c6605f-6c87-4bf3-a8f6-a6789871a4d6.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155961402-01a37ea7-3a04-49d8-915f-6da6b940668c.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155961588-8d90c102-c7d5-4449-8088-684ddc940f23.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155961170-356cb983-ba06-41d9-9b00-9665b7a7ac66.png)
 
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
