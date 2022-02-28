@@ -39,7 +39,7 @@ Febuary(2021)–April(2021)
 
 ![76 copy](https://user-images.githubusercontent.com/70802732/155930367-16b734f6-2e62-495e-b3ee-1d946b87e8b0.png)
 
-E-Commerce App for only Faislabad Peoples where user can order vegetable online.
+SABZISHOP is the online store for providing an extended range of farm-fresh and organic vegetables in Faisalabad. It is providing a one-click solution to get your desire list of vegetables at your doorstep.
 <br></br>
 App ScreenShots
 <br></br>
@@ -52,16 +52,14 @@ App ScreenShots
 
 
 <h6>Links</h6>
-o https://play.google.com/store/apps/details?id=com.myfamilytutor.pk<br></br>
-o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
+o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
 
-<h5>o Whatsinit</h5>
+<h5>2. Smart Attendance</h5>
 
 ![80](https://user-images.githubusercontent.com/54985306/133070818-3ecec206-6820-4fc3-be71-51717ccd0e3c.png)
 
 
-Monthly subscription based App in which you can search for any food item to see what incredients it has.
-(Still in beta testing)
+Smart Attendance is the online attendance system for Employee. The employee who is supposed to use the app, he must have to login credentials. After login he will be directed to QrCode scan and Face Recognition screen for the purpose of verification. Employee will scan QrCode provided on his employee card by respected company or organization. If the scan is successful, he will get two options in priorties i.e. Check-In and Check-Out. 
 <br></br>
 App ScreenShots
 <br></br>
@@ -74,13 +72,14 @@ App ScreenShots
 
 
 <h6>Links</h6>
-o https://play.google.com/store/apps/details?id=com.twodoclt<br></br>
+o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 
-<h5>o Load a Trash</h5>
+<h5>o Shirleys</h5>
 
-![80](https://user-images.githubusercontent.com/54985306/133070945-958d6d69-9dd5-46eb-8a19-8e1d24697ceb.png)
+![80](https://user-images.githubusercontent.com/70802732/155930885-c8f77d10-7f62-4978-bd32-8ee6a3e3c325.png)
 
-UK based app where customers can upload snaps od their useless trash or machinary and buyers can pay to them using in App payment while picking up the trash.
+SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
+
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.softechbusinessservices.waste_management_app<br></br>
 o https://apps.apple.com/us/app/load-a-trash/id1541996261<br></br>
