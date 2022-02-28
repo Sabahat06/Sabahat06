@@ -16,6 +16,8 @@ Scan the code
 
 Or open this link from your smartphone
 https://wa.link/ak8leq
+<h4>Twitter</h4>
+https://twitter.com/MianSabahat06
 
 <!-- +92 312 1531796 -->
 <!-- ![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945792-3f4bf753-fad2-4077-b458-c1af12e0c11e.jpg) -->
