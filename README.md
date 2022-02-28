@@ -9,8 +9,14 @@ miansabahat10@gmail.com
 <h4>Linked In</h4>
 https://www.linkedin.com/in/sabahathussainqureshi/
 <h4>Whatsapp</h4>
+Scan the code 
 
-+92 312 1531796
+![whatsapp QR](https://user-images.githubusercontent.com/70802732/155936800-12c23751-c81e-4e6f-a06d-e28f399ab86b.png)
+
+Or open this link from your smartphone
+https://wa.link/ak8leq
+
+<!-- +92 312 1531796 -->
 <!-- ![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945792-3f4bf753-fad2-4077-b458-c1af12e0c11e.jpg) -->
 
 <!-- Or open this link from your smartphone -->
