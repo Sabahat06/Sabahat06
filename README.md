@@ -80,11 +80,13 @@ Smart Attendance is the online attendance system for Employee. The employee who 
 App ScreenShots
 <br></br>
 
-![Screenshot_1629725116](https://user-images.githubusercontent.com/54985306/133031674-c9ff010c-b522-4666-bbcd-a2ca82ea0a03.png)
-![Screenshot_1629724981](https://user-images.githubusercontent.com/54985306/133031675-e5d15961-4c87-43fc-b190-fdbdd4c100fd.png)
-![Screenshot_1629724992](https://user-images.githubusercontent.com/54985306/133031678-f24393f0-fb65-49ee-923e-6053854cbed8.png)
-![Screenshot_1629725024](https://user-images.githubusercontent.com/54985306/133031681-a7630a3b-66e6-4f44-bbb7-d338f186611c.png)
-![Screenshot_1629725097](https://user-images.githubusercontent.com/54985306/133031685-f2999661-74a1-49a9-9e0b-bbc5412d8592.png)
+![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/155942138-c462b8d3-c09e-4d05-b4f8-208ee098cf82.png)
+![Screenshot_1629724981](https://user-images.githubusercontent.com/70802732/155942331-6ead5ac0-76ee-4dc6-9fcf-2759627b653a.png)
+![Screenshot_1629724992](https://user-images.githubusercontent.com/70802732/155942409-eee6f74d-eea1-4c6e-abcd-19e46495b25f.png)
+![Screenshot_1629725024](https://user-images.githubusercontent.com/70802732/155942449-dbb8c0bb-43df-4c7f-83d3-dc1e0c5f224f.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942489-7e911da3-7b60-45f4-8489-f095fb8827e2.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942527-fd18b3f3-3269-4d45-9cfa-e1d21cee53c7.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942623-8cfc767f-5295-4f8c-99c8-6fbddb362fc0.png)
 
 
 <h6>Links</h6>
