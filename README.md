@@ -56,7 +56,7 @@ o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
 
 <h5>2. Smart Attendance</h5>
 
-![80](https://user-images.githubusercontent.com/54985306/133070818-3ecec206-6820-4fc3-be71-51717ccd0e3c.png)
+![80](https://user-images.githubusercontent.com/70802732/155931461-c4d632e6-4291-4d9a-ac65-fa024ee21d35.png)
 
 
 Smart Attendance is the online attendance system for Employee. The employee who is supposed to use the app, he must have to login credentials. After login he will be directed to QrCode scan and Face Recognition screen for the purpose of verification. Employee will scan QrCode provided on his employee card by respected company or organization. If the scan is successful, he will get two options in priorties i.e. Check-In and Check-Out. 
