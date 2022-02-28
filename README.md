@@ -84,6 +84,15 @@ SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the 
 o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
 o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
+<h5>o Karobar Easy</h5>
+
+![80](https://user-images.githubusercontent.com/70802732/155931705-6afa9260-b3f7-47f6-97b7-e8ae7f4049c1.png)
+
+Karobar Easy is a plate form where shop users can search for mobiles, mobile accessories and any thing related to mobile businesses with just simple clicks.We offer customer portals to track orders, updates by instant notifications.Register and enjoy to be a part of Karobar Easy.
+
+<h6>Links</h6>
+o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
+
 <h5>o Employees Attendance Management System using Face Recognition and QR Scanning</h5>
 <h5>o Video Calling App using Agora SDK</h5>
 
