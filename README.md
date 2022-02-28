@@ -5,7 +5,7 @@
 <!-- Flutter Developer -->
 <h3>Contact</h3>
 <h4>Email</h4>
-miansabahat10@gmail.com
+miansabahat10@gmail.com, 
 sabahathussainqureshi@gmail.com
 <h4>Linked In</h4>
 https://www.linkedin.com/in/sabahathussainqureshi/
