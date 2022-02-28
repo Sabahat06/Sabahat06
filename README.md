@@ -81,11 +81,11 @@ App ScreenShots
 <br></br>
 
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/155942138-c462b8d3-c09e-4d05-b4f8-208ee098cf82.png)
-![Screenshot_1629724981](https://user-images.githubusercontent.com/70802732/155942331-6ead5ac0-76ee-4dc6-9fcf-2759627b653a.png)
 ![Screenshot_1629724992](https://user-images.githubusercontent.com/70802732/155942409-eee6f74d-eea1-4c6e-abcd-19e46495b25f.png)
-![Screenshot_1629725024](https://user-images.githubusercontent.com/70802732/155942449-dbb8c0bb-43df-4c7f-83d3-dc1e0c5f224f.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942489-7e911da3-7b60-45f4-8489-f095fb8827e2.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942527-fd18b3f3-3269-4d45-9cfa-e1d21cee53c7.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155943341-d6d76513-2f4f-46fe-9dd8-65c8e764ffa4.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155943378-eddbdc66-bdfc-4325-b875-c28da43796f4.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942623-8cfc767f-5295-4f8c-99c8-6fbddb362fc0.png)
 
 
