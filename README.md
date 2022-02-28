@@ -52,7 +52,7 @@ App ScreenShots
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/70802732/155938747-275f61ef-ca67-44bd-b068-8c31a5904257.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 55](https://user-images.githubusercontent.com/70802732/155938862-7bb2164a-a6c0-4cb5-84ef-927808b401e2.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 09 25](https://user-images.githubusercontent.com/70802732/155938941-ebac75f1-6604-42ca-9e5f-4abb68da1145.png)
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 22](https://user-images.githubusercontent.com/70802732/155938893-3eead3b7-65ca-4275-a24e-d70dee74877b.png)
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 22](https://user-images.githubusercontent.com/70802732/155939412-a1519dcf-c734-4eb5-9d23-5b92fd9efa28.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 28](https://user-images.githubusercontent.com/70802732/155938823-3f5236c2-4d2e-46e5-8f76-ec8e5d8a21d3.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 36](https://user-images.githubusercontent.com/70802732/155938927-4e06c354-8e9c-4c14-9557-cbc8cf520aa1.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 36](https://user-images.githubusercontent.com/70802732/155938842-9992b67f-e258-4821-9849-eca657d7ee25.png)
