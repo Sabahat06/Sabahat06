@@ -61,8 +61,8 @@ App ScreenShots
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 36](https://user-images.githubusercontent.com/70802732/155938842-9992b67f-e258-4821-9849-eca657d7ee25.png)
 
 
-<h5>Links:</h5>
-<h6>Play Store</h6>
+<h6>Links:</h6>
+<h7>Play Store</h7>
 o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
 
 <h5>2. Rider Sabzi Shop</h5>
