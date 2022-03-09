@@ -61,7 +61,7 @@ App ScreenShots
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 36](https://user-images.githubusercontent.com/70802732/155938842-9992b67f-e258-4821-9849-eca657d7ee25.png)
 
 
-<h5>Links</h5>
+<h5>Links:</h5>
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
 
@@ -71,7 +71,8 @@ o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
 
 SABZISHOP is the online store for providing an extended range of farm-fresh and organic vegetables in Faisalabad. And this app is for rider to deliver the orders.
 
-<h6>Links</h6>
+<h5>Links:</h5>
+<h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.riderapp<br></br>
 
 <h5>3. Smart Attendance</h5>
@@ -93,7 +94,8 @@ App ScreenShots
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942623-8cfc767f-5295-4f8c-99c8-6fbddb362fc0.png)
 
 
-<h6>Links</h6>
+<h5>Links:</h5>
+<h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 
 <h5>4. Shirleys</h5>
@@ -115,8 +117,10 @@ App ScreenShots
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155961402-01a37ea7-3a04-49d8-915f-6da6b940668c.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155961588-8d90c102-c7d5-4449-8088-684ddc940f23.png)
 
-<h6>Links</h6>
+<h5>Links:</h5>
+<h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
+<h6>App Store</h6>
 o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
 <h5>5. Karobar Easy</h5>
@@ -125,7 +129,7 @@ o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
 Karobar Easy is a plate form where shop users can search for mobiles, mobile accessories and any thing related to mobile businesses with just simple clicks.We offer customer portals to track orders, updates by instant notifications.Register and enjoy to be a part of Karobar Easy.
 
-<h6>Links</h6>
+<h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 
 <h5>6. E-Commerce app (E Store Space)</h5>
