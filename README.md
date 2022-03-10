@@ -4,7 +4,7 @@
 <!-- <h3>Muhammad Ikram Ulhaq</h3> -->
 <!-- Flutter Developer -->
 <h3>Contact</h3>
-<h4>Email</h4>
+<h5>Email</h5>
 miansabahat10@gmail.com<br></br>
 sabahathussainqureshi@gmail.com
 <h4>Linked In</h4>
