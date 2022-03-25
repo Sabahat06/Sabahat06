@@ -28,7 +28,7 @@ https://twitter.com/MianSabahat06
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
 Sep(2016) - Oct(2020)
-Graduated with CGPA 3.31
+Graduated with CGPA 3.31 
 
 <h3>WORK EXPERIENCE</h3>
 <h5>Lead Mobile App Developer (Android & iOS) </h5>
