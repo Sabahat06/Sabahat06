@@ -134,7 +134,7 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 
 <h5>6. E-Commerce app (E Store Space)</h5>
 
-<h5>6. Chat App using firebase firestore(Chating App)</h5>
+<h5>7. Chat App using firebase firestore(Chating App)</h5>
 
 
 <h3>Skills</h3>
