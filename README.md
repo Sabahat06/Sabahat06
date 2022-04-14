@@ -147,7 +147,7 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h3>Hands on experiance</h3>
 Designing, Building and Deploying scalable Mobile Applications.<br></br>
 State management using provider,GetX and setState.<br></br>
-MVC/MVVM pattrens.<br></br>
+MVC pattrens.<br></br>
 Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).<br></br>
 Streams, Futures and asyncrounous programming.<br></br>
 Location Services and Google Maps.<br></br>
