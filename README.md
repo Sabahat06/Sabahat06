@@ -4,33 +4,10 @@
 <p>
   <a href="https://linkedin.com/in/sabahathussainqureshi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/MianSabahat06" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://wa.link/ak8leq" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://wa.link/ak8leq" target="_blank"><img alt="Whatsapp" src="[https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/-whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" /></a>
   <a href="miansabahat10@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/sabahat_06" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
-<h3>Contact</h3>
-<h4>Email</h4>
-
-miansabahat10@gmail.com<br></br>
-sabahathussainqureshi@gmail.com
-<h4>Linked In</h4>
-https://www.linkedin.com/in/sabahathussainqureshi/
-<h4>Whatsapp</h4>
-Scan the code 
-
-![whatsapp QR](https://user-images.githubusercontent.com/70802732/155936800-12c23751-c81e-4e6f-a06d-e28f399ab86b.png)
-
-Or open this link from your smartphone
-https://wa.link/ak8leq
-<h4>Twitter</h4>
-https://twitter.com/MianSabahat06
-
-<!-- +92 312 1531796 --> 
-
-<!-- ![whatsapp QR](https://user-images.githubusercontent.com/54985306/132945792-3f4bf753-fad2-4077-b458-c1af12e0c11e.jpg) -->
-<!-- Or open this link from your smartphone -->
-<!-- https://wa.me/qr/LDG5MI433M46P1 -->
 
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
