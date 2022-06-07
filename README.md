@@ -1,8 +1,14 @@
-<!-- ![profile header jpg1](https://user-images.githubusercontent.com/54985306/132942703-ecf1b0e7-3c70-4c37-924a-d287b9920fcd.jpg) -->
 ![profile header with skills v2](https://user-images.githubusercontent.com/70802732/155933754-843b78c0-4397-46f7-a5d6-f02ab3db967a.jpeg)
-<!-- ![Intern](https://user-images.githubusercontent.com/54985306/132943043-5d22a14c-e44b-4a7f-bd86-03404f69a9e2.jpg) -->
-<!-- <h3>Muhammad Ikram Ulhaq</h3> -->
-<!-- Flutter Developer -->
+
+## Contact Me
+<p>
+  <a href="https://linkedin.com/in/bharath-t-dev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/bharath_dev_t" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://medium.bharath-dev.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="mailto:bharath.dev.ray@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/bharathh_raj" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
 <h3>Contact</h3>
 <h4>Email</h4>
 
