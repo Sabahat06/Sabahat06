@@ -29,7 +29,7 @@ Graduated with CGPA 3.31
 Softech Business Services, Islamabad
 August(2021)–Present<br></br>
 Responsibilities:<br></br>
-- Development, Deployment and management of Android and iOS applications using cross platform (Flutter)<br></br>
+- Development, Deployment and management of Android and iOS applications using cross platform (Flutter)
 - Leading junior Flutter Developers and working synchronously
 - 
 <h5>Intern Flutter Developer</h5>
