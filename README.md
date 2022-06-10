@@ -31,7 +31,6 @@ August(2021)–Present<br></br>
 Responsibilities:<br></br>
 - Development, Deployment and management of Android and iOS applications using cross platform (Flutter)<br></br>
 - Leading junior Flutter Developers and working synchronously
-- 
 <h5>Intern Flutter Developer</h5>
 Galvonix LLC, Rawalpindi
 Febuary(2021)–April(2021)
