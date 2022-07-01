@@ -45,7 +45,7 @@ SABZISHOP is the online store for providing an extended range of farm-fresh and 
 <br></br>
 App ScreenShots
 <br></br>
-<div> ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/70802732/155938747-275f61ef-ca67-44bd-b068-8c31a5904257.png) </div>
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/70802732/155938747-275f61ef-ca67-44bd-b068-8c31a5904257.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 55](https://user-images.githubusercontent.com/70802732/155938862-7bb2164a-a6c0-4cb5-84ef-927808b401e2.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 09 25](https://user-images.githubusercontent.com/70802732/155938941-ebac75f1-6604-42ca-9e5f-4abb68da1145.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 10 22](https://user-images.githubusercontent.com/70802732/155939784-6ebb8dc1-3657-4111-bdef-e150c7eefae6.png)
