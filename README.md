@@ -144,8 +144,6 @@ MVC pattrens.<br></br>
 Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).<br></br>
 Streams, Futures and asyncrounous programming.<br></br>
 Location Services and Google Maps.<br></br>
-Creating and Deploying custom plugin on Pub.dev.<br></br>
-Google Play Services such as Admob, In App Purchases and few more
 
 
 
