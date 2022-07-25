@@ -137,7 +137,7 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h5>Rest APIs</h5>
 <h5>Mobile App deployment on AppStore Connects and Google Play Console</h5>
 
-<h3>Hands on experiance</h3>
+<h3>Hands on experience</h3>
 <h5>Designing, Building and Deploying scalable Mobile Applications.</h5>
 <h5>State management using provider,GetX and setState.</h5>
 <h5>MVC pattrens.</h5>
