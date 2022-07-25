@@ -41,6 +41,7 @@ Febuary(2021)–April(2021)
 SABZISHOP is the online store for providing an extended range of farm-fresh and organic vegetables in Faisalabad. It is providing a one-click solution to get your desire list of vegetables at your doorstep.
 <br></br>
 App ScreenShots
+<br></br>
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 46](https://user-images.githubusercontent.com/70802732/155938747-275f61ef-ca67-44bd-b068-8c31a5904257.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 08 55](https://user-images.githubusercontent.com/70802732/155938862-7bb2164a-a6c0-4cb5-84ef-927808b401e2.png)
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-09-13 at 15 09 25](https://user-images.githubusercontent.com/70802732/155938941-ebac75f1-6604-42ca-9e5f-4abb68da1145.png)
@@ -72,6 +73,7 @@ o https://play.google.com/store/apps/details?id=com.sbs.riderapp<br></br>
 Smart Attendance is the online attendance system for Employee. The employee who is supposed to use the app, he must have to login credentials. After login he will be directed to QrCode scan and Face Recognition screen for the purpose of verification. Employee will scan QrCode provided on his employee card by respected company or organization. If the scan is successful, he will get two options in priorties i.e. Check-In and Check-Out. 
 <br></br>
 App ScreenShots
+<br></br>
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/155942138-c462b8d3-c09e-4d05-b4f8-208ee098cf82.png)
 ![Screenshot_1629724992](https://user-images.githubusercontent.com/70802732/155942409-eee6f74d-eea1-4c6e-abcd-19e46495b25f.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155942489-7e911da3-7b60-45f4-8489-f095fb8827e2.png)
@@ -93,6 +95,7 @@ SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the 
 
 <br></br>
 App ScreenShots
+<br></br>
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/155961023-dc116d43-ee06-49b3-a131-7e09e215da5a.png)
 ![Screenshot_1629724992](https://user-images.githubusercontent.com/70802732/155961052-1f40ecb7-680c-4fc4-a040-c7c0f9228a31.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/155961170-356cb983-ba06-41d9-9b00-9665b7a7ac66.png)
