@@ -143,7 +143,7 @@ State management using provider,GetX and setState.<br></br>
 MVC pattrens.<br></br>
 Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).<br></br>
 Streams, Futures and asyncrounous programming.<br></br>
-Location Services and Google Maps.<br></br>
+Location Services \n and Google Maps.<br></br>
 
 
 
