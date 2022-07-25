@@ -138,12 +138,13 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h5>Mobile App deployment on AppStore Connects and Google Play Console</h5>
 
 <h3>Hands on experiance</h3>
-Designing, Building and Deploying scalable Mobile Applications.<br></br>
-State management using provider,GetX and setState.<br></br>
-MVC pattrens.<br></br>
-Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).<br></br>
-Streams, Futures and asyncrounous programming.<br></br>
-Location Services \n and Google Maps.<br></br>
+<h5>Designing, Building and Deploying scalable Mobile Applications.</h5>
+<h5>State management using provider,GetX and setState.</h5>
+<h5>MVC pattrens.</h5>
+<h5>Firebase services (Firestore and Realtime database, Dynamic Links, Cloud Storage, Cloud messaging and Push Notifications etc).</h5>
+<h5>Streams, Futures and asyncrounous programming.</h5>
+<h5>Location Services and Google Maps.</h5>
+<h5>AdMob, Google Ads</h5>
 
 
 
