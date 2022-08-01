@@ -111,17 +111,15 @@ o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
 <h5>4. Silsila-e-Naqshbandi</h5>
 
-SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
-
+Silsila-e-Naqshbandi is attendance management app.
 <br></br>
 App ScreenShots
 <br></br>
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/182153170-8583fcaa-cf80-4f67-8b58-feea3ad9f36a.png)
 ![Screenshot_1629724992](https://user-images.githubusercontent.com/70802732/182153260-9965eb6b-509c-4a5d-905b-86c92667c2d2.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153346-f5ddde54-62a1-4edf-8919-f0c3a03b70c4.png)
-<br></br>
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153402-bb9e89c1-8028-44a5-a83c-72a1f740b211.png)
-![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153473-8d50d72f-8271-440f-b099-a30ee4123b05.png
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153473-8d50d72f-8271-440f-b099-a30ee4123b05.png)
 
 <h5>6. Karobar Easy</h5>
 
