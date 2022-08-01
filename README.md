@@ -111,11 +111,25 @@ o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
 <h6>App Store</h6>
 o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
+<h5>4. Silsila-e-Naqshbandi</h5>
+
+SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
+
+<br></br>
+App ScreenShots
+<br></br>
+![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/182153170-8583fcaa-cf80-4f67-8b58-feea3ad9f36a.png)
+![Screenshot_1629724992](https://user-images.githubusercontent.com/70802732/182153260-9965eb6b-509c-4a5d-905b-86c92667c2d2.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153346-f5ddde54-62a1-4edf-8919-f0c3a03b70c4.png)
+<br></br>
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153402-bb9e89c1-8028-44a5-a83c-72a1f740b211.png)
+![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153473-8d50d72f-8271-440f-b099-a30ee4123b05.png
+
 <h5>5. Karobar Easy</h5>
 
 ![80](https://user-images.githubusercontent.com/70802732/155931705-6afa9260-b3f7-47f6-97b7-e8ae7f4049c1.png)
 
-Karobar Easy is a plate form where shop users can search for mobiles, mobile accessories and any thing related to mobile businesses with just simple clicks.We offer customer portals to track orders, updates by instant notifications.Register and enjoy to be a part of Karobar Easy.
+Karobar Easy is a plate form where shop users can search for mobiles, Mobile Accessories and any thing related to mobile businesses with just simple clicks. We offer customer portals to track orders, updates by instant notifications.Register and enjoy to be a part of Karobar Easy.
 
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
