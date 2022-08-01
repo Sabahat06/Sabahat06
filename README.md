@@ -88,9 +88,7 @@ App ScreenShots
 o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 
 <h5>4. Shirleys</h5>
-
 ![80](https://user-images.githubusercontent.com/70802732/155930885-c8f77d10-7f62-4978-bd32-8ee6a3e3c325.png)
-
 SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
 
 <br></br>
@@ -125,7 +123,7 @@ App ScreenShots
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153402-bb9e89c1-8028-44a5-a83c-72a1f740b211.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153473-8d50d72f-8271-440f-b099-a30ee4123b05.png
 
-<h5>5. Karobar Easy</h5>
+<h5>6. Karobar Easy</h5>
 
 ![80](https://user-images.githubusercontent.com/70802732/155931705-6afa9260-b3f7-47f6-97b7-e8ae7f4049c1.png)
 
@@ -134,9 +132,9 @@ Karobar Easy is a plate form where shop users can search for mobiles, Mobile Acc
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 
-<h5>6. E-Commerce app (E Store Space)</h5>
+<h5>7. E-Commerce app (E Store Space)</h5>
 
-<h5>7. Chat App using firebase firestore(Chating App)</h5>
+<h5>8. Chat App using firebase firestore(Chating App)</h5>
 
 
 <h3>Skills</h3>
