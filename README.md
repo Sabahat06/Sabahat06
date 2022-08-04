@@ -16,7 +16,7 @@ Languages and Tools
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="immujahidkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" />
+<p><img align="left" alt="immujahidkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" /></p>
 <br></br>
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
