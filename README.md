@@ -10,18 +10,18 @@
 </p>
 
 
-Languages and Tools
+## Languages and Tools
 <img align="center" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="center" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="center" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="center" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<h3>EDUCATION</h3>
+## EDUCATION
 <h5>BSCS from FUUAST, Islamabad</h5>
 Sep(2016) - Oct(2020)
 Graduated with CGPA 3.31 
 
-<h3>WORK EXPERIENCE</h3>
+## WORK EXPERIENCE
 <h5>Lead Mobile App Developer (Android & iOS) </h5>
 Softech Business Services, Islamabad
 August(2021)–Present<br></br>
@@ -32,9 +32,9 @@ Responsibilities:<br></br>
 Galvonix LLC, Rawalpindi
 Febuary(2021)–April(2021)
 
-<h3>Projects</h3>
+# Projects
 
-<h5>1. Sabzi Shop</h5>
+## 1. Sabzi Shop
 
 ![76 copy](https://user-images.githubusercontent.com/70802732/155930367-16b734f6-2e62-495e-b3ee-1d946b87e8b0.png)
 
@@ -55,7 +55,7 @@ App ScreenShots
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.sabzishop<br></br>
 
-<h5>2. Rider Sabzi Shop</h5>
+## 2. Rider Sabzi Shop
 
 ![80](https://user-images.githubusercontent.com/70802732/155932777-a7c95f44-8892-42a6-9757-34e1db5770bc.png)
 
@@ -65,7 +65,7 @@ SABZISHOP is the online store for providing an extended range of farm-fresh and 
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.riderapp<br></br>
 
-<h5>3. Smart Attendance</h5>
+## 3. Smart Attendance
 
 ![80](https://user-images.githubusercontent.com/70802732/155931461-c4d632e6-4291-4d9a-ac65-fa024ee21d35.png)
 
@@ -87,7 +87,7 @@ App ScreenShots
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 
-<h5>4. Shirleys</h5>
+## 4. Shirleys
 ![80](https://user-images.githubusercontent.com/70802732/155930885-c8f77d10-7f62-4978-bd32-8ee6a3e3c325.png)
 SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
 
@@ -109,7 +109,7 @@ o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
 <h6>App Store</h6>
 o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
-<h5>4. Silsila-e-Naqshbandi</h5>
+## 4. Silsila-e-Naqshbandi
 
 Silsila-e-Naqshbandi is attendance management app.
 <br></br>
@@ -121,7 +121,7 @@ App ScreenShots
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153402-bb9e89c1-8028-44a5-a83c-72a1f740b211.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153473-8d50d72f-8271-440f-b099-a30ee4123b05.png)
 
-<h5>6. Karobar Easy</h5>
+## 6. Karobar Easy
 
 ![80](https://user-images.githubusercontent.com/70802732/155931705-6afa9260-b3f7-47f6-97b7-e8ae7f4049c1.png)
 
@@ -130,19 +130,19 @@ Karobar Easy is a plate form where shop users can search for mobiles, Mobile Acc
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 
-<h5>7. E-Commerce app (E Store Space)</h5>
+## 7. E-Commerce app (E Store Space)
 
-<h5>8. Chat App using firebase firestore(Chating App)</h5>
+## 8. Chat App using firebase firestore(Chating App)
 
 
-<h3>Skills</h3>
+## Skill
 <h5>Flutter Mobile App development(Android, iOS)</h5>
 <h5>Firebase</h5>
 <h5>Version Controll(git/github)</h5>
 <h5>Rest APIs</h5>
 <h5>Mobile App deployment on AppStore Connects and Google Play Console</h5>
 
-<h3>Hands on experience</h3>
+## Hands on experience 
 <h5>Designing, Building and Deploying scalable Mobile Applications.</h5>
 <h5>State management using provider,GetX and setState.</h5>
 <h5>MVC pattrens.</h5>
