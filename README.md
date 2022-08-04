@@ -152,6 +152,6 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h5>AdMob, Google Ads</h5>
 
 <img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true"/>
-
+<img src="https://komarev.com/ghpvc/?username=Sabahat06=Profile%20views&color=0e75b6&style=flat" alt="sabahat" />
 
 
