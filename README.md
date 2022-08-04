@@ -152,8 +152,6 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h5>AdMob, Google Ads</h5>
 
 ## 📈 &nbsp;Some Github Stats ##
-
-<img src="https://komarev.com/ghpvc/?username=Sabahat06&label=Profile%20views&color=0e75b6&style=flat" alt="sabahat" />
 <span align="left">  
 ![Th3Wall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
