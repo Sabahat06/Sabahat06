@@ -17,7 +17,7 @@ Languages and Tools
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <tr>
-  <td><img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" width=220 height=450/>
+  <td><img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true"/>
   </td>
 </tr>
 
