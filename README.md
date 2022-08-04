@@ -1,6 +1,6 @@
 ![profile header with skills v2](https://user-images.githubusercontent.com/70802732/155933754-843b78c0-4397-46f7-a5d6-f02ab3db967a.jpeg)
 
-<img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" />
+<img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" width: />
 <br></br>
 ## Contact Me
 <p>
@@ -17,6 +17,11 @@ Languages and Tools
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<tr>
+    <td><img src="https://github.com/Sabahat06/sigma_digital_solution_task/blob/master/App%20Screenshot/popular%20movie.jpeg" width=220 height=450></td>
+    <td><img src="https://github.com/Sabahat06/sigma_digital_solution_task/blob/master/App%20Screenshot/upcoming%20movie.jpeg" width=220 height=450></td>
+</tr>
 
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
