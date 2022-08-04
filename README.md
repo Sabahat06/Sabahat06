@@ -16,8 +16,6 @@ Languages and Tools
 <img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<p><img align="left" alt="immujahidkhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" /></p>
-<br></br>
 <h3>EDUCATION</h3>
 <h5>BSCS from FUUAST, Islamabad</h5>
 Sep(2016) - Oct(2020)
@@ -152,6 +150,9 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h5>Streams, Futures and asyncrounous programming.</h5>
 <h5>Location Services and Google Maps.</h5>
 <h5>AdMob, Google Ads</h5>
+
+<img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" />
+<br></br>
 
 
 
