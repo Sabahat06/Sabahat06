@@ -1,5 +1,7 @@
 ![profile header with skills v2](https://user-images.githubusercontent.com/70802732/155933754-843b78c0-4397-46f7-a5d6-f02ab3db967a.jpeg)
 
+<img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" />
+<br></br>
 ## Contact Me
 <p>
   <a href="https://linkedin.com/in/sabahathussainqureshi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -150,9 +152,6 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h5>Streams, Futures and asyncrounous programming.</h5>
 <h5>Location Services and Google Maps.</h5>
 <h5>AdMob, Google Ads</h5>
-
-<img align="left" alt="Sabahat06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sabahat06&show_icons=true&hide_border=true" />
-<br></br>
 
 
 
