@@ -153,7 +153,7 @@ o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 <h5>Location Services and Google Maps.</h5>
 <h5>AdMob, Google Ads</h5>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Sabahat06&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sabahat06&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## 📈 &nbsp;Some Github Stats ##
 <img src="https://komarev.com/ghpvc/?username=Sabahat06&label=Profile%20views&color=0e75b6&style=flat" alt="sabahat" />
