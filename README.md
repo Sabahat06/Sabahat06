@@ -99,9 +99,9 @@ o https://play.google.com/store/apps/details?id=com.sbs.attendance<br></br>
 
 ## 4. Shirleys
 ![80](https://user-images.githubusercontent.com/70802732/155930885-c8f77d10-7f62-4978-bd32-8ee6a3e3c325.png)
+<br></br>
 SHIRLEYS is Brunei’s leading online shopping platform keeping up with all the current fashion trends and viral products. Discover popular women and men clothing, accessories, shoes, viral gadgets and more. Affordable prices, quality products and easy shopping at your fingertips!
 
-<br></br>
 App ScreenShots
 <br></br>
 ![Screenshot_1629725116](https://user-images.githubusercontent.com/70802732/155961023-dc116d43-ee06-49b3-a131-7e09e215da5a.png)
