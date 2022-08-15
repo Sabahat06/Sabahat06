@@ -23,7 +23,7 @@
 Sep(2016) - Oct(2020)
 Graduated with CGPA 3.31 
 
-## WORK EXPERIENCE
+## WORK EXPERIENCE 
 <h5>Lead Mobile App Developer (Android & iOS) </h5>
 Softech Business Services, Islamabad
 August(2021)–Present<br></br>
