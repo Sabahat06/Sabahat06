@@ -119,7 +119,7 @@ o https://play.google.com/store/apps/details?id=com.soft.shirleys<br></br>
 <h6>App Store</h6>
 o https://apps.apple.com/us/app/shirleys/id1594411301<br></br>
 
-## 4. Silsila-e-Naqshbandi
+## 5. Silsila-e-Naqshbandi
 
 Silsila-e-Naqshbandi is attendance management app.
 <br></br>
@@ -131,16 +131,14 @@ App ScreenShots
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153402-bb9e89c1-8028-44a5-a83c-72a1f740b211.png)
 ![Screenshot_1629725097](https://user-images.githubusercontent.com/70802732/182153473-8d50d72f-8271-440f-b099-a30ee4123b05.png)
 
-## 4. LSUK
-
+## 6. LSUK
 ![Icon-App-40x40@2x](https://user-images.githubusercontent.com/54985306/133071085-a992c448-af61-40e2-a777-083de383b531.png)
-
 UK based language interpretation service provider App where registered interpreters can see and bid for available jobs.
 <h6>Links</h6>
 o https://play.google.com/store/apps/details?id=com.org.lsuk<br></br>
 o https://apps.apple.com/us/app/lsuk/id1545528069<br></br>
 
-## 6. Karobar Easy
+## 7. Karobar Easy
 
 ![80](https://user-images.githubusercontent.com/70802732/155931705-6afa9260-b3f7-47f6-97b7-e8ae7f4049c1.png)
 
@@ -149,9 +147,9 @@ Karobar Easy is a plate form where shop users can search for mobiles, Mobile Acc
 <h6>Play Store</h6>
 o https://play.google.com/store/apps/details?id=com.sbs.yousafmobile<br></br>
 
-## 7. E-Commerce app (E Store Space)
+## 8. E-Commerce app (E Store Space)
 
-## 8. Chat App using firebase firestore(Chating App)
+## 9. Chat App using firebase firestore(Chating App)
 
 
 ## Skill
