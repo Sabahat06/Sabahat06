@@ -22,17 +22,6 @@
 Sep(2016) - Oct(2020)
 Graduated with CGPA 3.31 
 
-## WORK EXPERIENCE 
-<h5>Lead Mobile App Developer (Android & iOS) </h5>
-Softech Business Services, Islamabad
-August(2021)–Present<br></br>
-Responsibilities:<br></br>
-- Development, Deployment and management of Android and iOS applications using cross platform (Flutter)<br></br>
-- Leading Senior Flutter Developers and working synchronously
-<h5>Intern Flutter Developer</h5>
-Galvonix LLC, Rawalpindi
-Febuary(2021)–April(2021)
-
 ## 📈 &nbsp;Some Github Stats ##
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Sabahat06&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
