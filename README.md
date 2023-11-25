@@ -1,4 +1,3 @@
-![profile header with skills v2](https://user-images.githubusercontent.com/70802732/155933754-843b78c0-4397-46f7-a5d6-f02ab3db967a.jpeg)
 
 ## Contact Me
 <p>
